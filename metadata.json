@@ -1,0 +1,7 @@
+{
+  "name": "AYNAAS Finance",
+  "description": "Aplikasi manajemen keuangan pribadi offline-first v1.4 dengan grafik tren arus kas bulanan & distribusi kategori (Recharts / D3 inspired), pelacakan transaksi multi-rekening, target tabungan finansial berjangka (Savings Goals), portofolio saham terintegrasi Yahoo Finance, sensor nominal, serta ekspor cadangan Room DB (JSON) dan riwayat transaksi spreadsheet (CSV) lokal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
